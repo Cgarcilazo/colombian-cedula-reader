@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Eitol\\ColombianCedulaReader\\": "src/"
+            "Eitol\\ColombianCedulaReader\\": "php/src/"
         }
     },
     "autoload-dev": {
